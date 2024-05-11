@@ -1,0 +1,7 @@
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\AuthPOC.exe
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\AuthPOC.dll
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\AuthPOC.deps.json
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\AuthPOC.runtimeconfig.json
+C:\Users\marcio.monzon\OneDrive - Programmers Beyond IT\Documentos\Azure\AuthPOC\AuthPOC\obj\Release\net8.0\PubTmp\Out\AuthPOC.pdb

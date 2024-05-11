@@ -1,0 +1,15 @@
+﻿@model  AuthPOC.Models.Privacy
+
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+@if(@Model != null) {
+    <p>Authorization Message: @Model.Message</p>
+} else
+{
+    <p>Not authorized</p>
+}
+
+<p>Use this page to detail your site's privacy policy.</p>
