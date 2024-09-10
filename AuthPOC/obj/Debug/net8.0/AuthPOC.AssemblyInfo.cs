@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthPOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0688c6d84aaa5661fb32d58f8629da5b86264539")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthPOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthPOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\AuthPOC.csproj": {}
+    "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\AuthPOC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\AuthPOC.csproj": {
+    "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\AuthPOC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\AuthPOC.csproj",
+        "projectUniqueName": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\AuthPOC.csproj",
         "projectName": "AuthPOC",
-        "projectPath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\AuthPOC.csproj",
+        "projectPath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\AuthPOC.csproj",
         "packagesPath": "C:\\Users\\marcio.monzon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\obj\\",
+        "outputPath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marcio.monzon\\AppData\\Roaming\\NuGet\\NuGet.Config",

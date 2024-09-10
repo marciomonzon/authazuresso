@@ -39,16 +39,6 @@ namespace AuthPOC.Models
                 principal = JsonSerializer.Deserialize<ClientPrincipal>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
             }
 
-            /** 
-             *  At this point, the code can iterate through `principal.Claims` to
-             *  check claims as part of validation. Alternatively, we can convert
-             *  it into a standard object with which to perform those checks later
-             *  in the request pipeline. That object can also be leveraged for 
-             *  associating user data, etc. The rest of this function performs such
-             *  a conversion to create a `ClaimsPrincipal` as might be used in 
-             *  other .NET code.
-             */
-
             var identity = new ClaimsIdentity(principal.IdentityProvider, principal.NameClaimType, principal.RoleClaimType);
 
             if(identity.IsAuthenticated)

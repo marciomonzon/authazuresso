@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\",
+  "WorkspaceRootPath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|c:\\users\\marcio.monzon\\onedrive - programmers beyond it\\documentos\\azure\\authpoc\\authpoc\\models\\claimsprincipalparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|c:\\users\\marcio.monzon\\onedrive - programmers beyond it\\documentos\\azure\\authazuresso\\authpoc\\models\\claimsprincipalparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|solutionrelative:authpoc\\models\\claimsprincipalparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|c:\\users\\marcio.monzon\\onedrive - programmers beyond it\\documentos\\azure\\authpoc\\authpoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|c:\\users\\marcio.monzon\\onedrive - programmers beyond it\\documentos\\azure\\authazuresso\\authpoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|solutionrelative:authpoc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|c:\\users\\marcio.monzon\\onedrive - programmers beyond it\\documentos\\azure\\authpoc\\authpoc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|c:\\users\\marcio.monzon\\onedrive - programmers beyond it\\documentos\\azure\\authazuresso\\authpoc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A31B6D1-738C-41C6-BF1C-275533237312}|AuthPOC\\AuthPOC.csproj|solutionrelative:authpoc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ClaimsPrincipalParser.cs",
-              "DocumentMoniker": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\Models\\ClaimsPrincipalParser.cs",
+              "DocumentMoniker": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\Models\\ClaimsPrincipalParser.cs",
               "RelativeDocumentMoniker": "AuthPOC\\Models\\ClaimsPrincipalParser.cs",
-              "ToolTip": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\Models\\ClaimsPrincipalParser.cs",
+              "ToolTip": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\Models\\ClaimsPrincipalParser.cs",
               "RelativeToolTip": "AuthPOC\\Models\\ClaimsPrincipalParser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvyAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T18:37:41.509Z",
               "EditorCaption": ""
@@ -41,24 +41,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "AuthPOC\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "AuthPOC\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T18:08:04.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T18:08:04.938Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AuthPOC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AuthPOC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAmAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T18:03:48.252Z",
               "EditorCaption": ""

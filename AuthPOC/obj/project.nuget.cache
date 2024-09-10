@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzyDIT7E/Jo1cxE3WwgPV7DPk6ZRMBLFRXWNaiurS1QvsnqllEhvy9bn5vBjAtRiS4u5HvLmVnFKkVLNwCws2g==",
+  "dgSpecHash": "5HSPhSP4nOCr/6n/+uUBPglafuX746oo/p31hC94KFQ04daJCO/7dErG67Kr3LA9WNZ7H08rSg4BNWWFEdo8Lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\AuthPOC\\AuthPOC\\AuthPOC.csproj",
+  "projectFilePath": "C:\\Users\\marcio.monzon\\OneDrive - Programmers Beyond IT\\Documentos\\Azure\\authazuresso\\AuthPOC\\AuthPOC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
